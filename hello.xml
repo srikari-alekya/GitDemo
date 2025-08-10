@@ -1,1 +1,5 @@
-<note>Different content from master branch </note>
+<<<<<<< HEAD
+
+=======
+<message> Hello again from GitWork branch </message>
+>>>>>>> GitWork
